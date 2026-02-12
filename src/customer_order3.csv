@@ -1,0 +1,7 @@
+CustID,Name,Price,Payment,Location,Date
+101,aejaz,"$12,000 ",cash,   BanGalore,2/2/2026
+102,anas,"$13,000 ",upi,Delhi,2/5/2026
+103,mg,"$1,500 ",cash,Gulbarga       ,1/25/2026
+104,amaan,"$30,000 ",card,Bangalore ,1/30/2026
+105,siddiq,"$4,000 ",card,     Gulbarga,2/7/2026
+106,mulla,"$5,000 ",upi,BANGALORE   ,2/10/2026
